@@ -131,7 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-extractor_filosofia_bosillo/
+#extractor_filosofia_bosillo/
 
 # Spyder project settings
 .spyderproject
