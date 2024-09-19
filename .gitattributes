@@ -1,0 +1,5 @@
+# Trata os arquivos de texto com LF no repositório, mas CRLF no Windows
+* text=auto
+
+# Força arquivos .sh a manterem LF sempre
+*.sh text eol=lf
