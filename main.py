@@ -1,4 +1,5 @@
 import spotipy
+import os
 from spotipy.oauth2 import SpotifyClientCredentials
 
 # Substitua com suas próprias credenciais
