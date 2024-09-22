@@ -40,6 +40,7 @@ if __name__ == "__main__":
         print(f"Título: {episode['name']}")
         print(f"ID do Episódio: {episode['id']}")
         print(f"Descrição: {episode['description'][:100]}...")
+        print(f"Descrição Completa: {episode['description']}...")
         print("="*50)
 
     print(f"Total de episódios encontrados: {len(episodios)}")
